@@ -1,0 +1,2 @@
+git add npm install shortid
+git commit -m "Install shortid for unique IDs"
