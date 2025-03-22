@@ -1,0 +1,2 @@
+git add npm i nodemon -D
+git commit -m "Install nodemon for development"
